@@ -1,23 +1,37 @@
+#title {
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    color: #61683d;
+    margin-bottom: 50px;
+}
+.caption {
+    font-size: 15px;
+    color: 
+}
+.img {
+    box-sizing: border-box;
+    display: block;
+    position: sticky;
+    margin-left: 830px;
+}
 body {
     background-color: seashell;
 }
 a {
     color: #61683d;
 }
-#title {
-    text-align: center;
-    color: #61683d;
-}
-.caption {
-    font-size: 15px;
-    color: 
-}
 .align {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    box-sizing: border-box;
     padding-left: 35px;
+    margin-left: 800px;
 }
 .button {
     box-sizing: border-box;
     background-color: seashell;
     size: 25px;
     padding: 3.5px;
+    margin-left: 800px;
 }
