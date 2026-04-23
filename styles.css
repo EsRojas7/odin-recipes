@@ -16,5 +16,8 @@ a {
     padding-left: 35px;
 }
 .button {
-    background-color: darkgray;
+    box-sizing: border-box;
+    background-color: seashell;
+    size: 25px;
+    padding: 3.5px;
 }
